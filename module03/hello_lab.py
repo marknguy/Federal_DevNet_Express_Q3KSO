@@ -11,10 +11,7 @@ requests.packages.urllib3.disable_warnings()
 # Make sure you either create your own room
 # or provide the name of the common event room
 SPARK_TOKN = 'Cut and paste your token here'
-# The spark room name must have the first letter of each word captitalized.  For example
-# 'Army Tactical' will work 
-# 'ARMY TACTICAL' will not work
-# 'army tactical' will not work
+# The spark room name is case sensitive.  Do not change this value.
 SPARK_ROOM = 'Federal Devnet Express Q3KSO'
 
 
