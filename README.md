@@ -11,3 +11,5 @@ Task 2.  Self paced learning.  Complete modules 0 through 4 from above.  These m
 Task 3.  Customer facing requirement.  Conduct at least 2 customer discussions, whiteboard sessions or demos on Programmability and document at least one potential use case per discussion.  This use case can come from the customer or one that you think might be useful for the customer.  Provide the use cases to the Programmability Community of Interest (COI) for potential solutions.
 
 Once you have completed your tasks, send an email to your manager to let them know, along with the relevant output.  Also provide feedback on what you thought of this KSO.
+
+Due Friday, April 28, 2017.
